@@ -1,0 +1,38 @@
+# Raw and processed sequencing data (download from SRA: PRJNA1081804)
+data/raw/
+data/processed/
+
+# Reference databases (download from SILVA/UNITE)
+data/reference/
+
+# Authors' original objects (available from Figshare, see README)
+data/authors/
+data/metadata/authors_16S_data
+data/metadata/authors_metadata.csv
+data/metadata/sample_metadata_template.csv
+
+# Supplementary materials from the paper
+docs/supplement/
+
+# Personal drafts
+docs/linkedin_draft*.txt
+
+# Internal working notes
+PROJECT_CONTEXT.md
+
+# Pipeline logs (generated during runs)
+logs/
+
+# renv library (restored from renv.lock)
+renv/library/
+renv/staging/
+renv/sandbox/
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user
+*.Rproj
+
+# macOS
+.DS_Store
