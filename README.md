@@ -42,7 +42,7 @@ See `results/figures/taxonomy_sankey.png` for a visual summary.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/phyllosphere_methods.git
+git clone https://github.com/shamusc/phyllosphere_methods.git
 cd phyllosphere_methods
 
 # Restore R dependencies
