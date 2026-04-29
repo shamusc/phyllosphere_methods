@@ -1,6 +1,6 @@
 # Phyllosphere Microbiome Methods Replication
 
-Replication of the computational methods from Tembrock et al. (2024), with an investigation into how reference database updates affect genus-level taxonomy assignments.
+Replication of the computational methods from Boutin et al. (2024), with an investigation into how reference database updates affect genus-level taxonomy assignments.
 
 **Original paper:** Tembrock et al. (2024). "Investigating the spatiotemporal dynamics of apple tree phyllosphere bacterial and fungal communities across cultivars in orchards." *Canadian Journal of Microbiology*. [DOI: 10.1139/cjm-2023-0215](https://doi.org/10.1139/cjm-2023-0215)
 
