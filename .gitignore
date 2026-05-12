@@ -17,9 +17,6 @@ docs/supplement/
 # Personal drafts
 docs/linkedin_draft*.txt
 
-# Internal working notes
-PROJECT_CONTEXT.md
-
 # Pipeline logs (generated during runs)
 logs/
 

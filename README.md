@@ -2,7 +2,7 @@
 
 Replication of the computational methods from Boutin et al. (2024), with an investigation into how reference database updates affect genus-level taxonomy assignments.
 
-**Original paper:** Boutin et al. (2024). "Investigating the spatiotemporal dynamics of apple tree phyllosphere bacterial and fungal communities across cultivars in orchards." *Canadian Journal of Microbiology*. [DOI: 10.1139/cjm-2023-0215](https://doi.org/10.1139/cjm-2023-0215)
+**Original paper:** Boutin, S., Lussier, E., & Laforest-Lapointe, I. (2024). "Investigating the spatiotemporal dynamics of apple tree phyllosphere bacterial and fungal communities across cultivars in orchards." *Canadian Journal of Microbiology*. [DOI: 10.1139/cjm-2023-0215](https://doi.org/10.1139/cjm-2023-0215)
 
 ## What this repo contains
 
@@ -42,8 +42,8 @@ See `results/figures/taxonomy_sankey.png` for a visual summary.
 
 ```bash
 # Clone the repo
-git clone https://github.com/shamusc/phyllosphere_methods.git
-cd phyllosphere_methods
+git clone https://github.com/shamusc/replication-boutin-2024.git
+cd replication-boutin-2024
 
 # Restore R dependencies
 Rscript -e "renv::restore()"
@@ -73,7 +73,7 @@ Rscript scripts/06_visualizations.R    # PCoA, abundance, diversity plots
 ## Directory structure
 
 ```
-phyllosphere_methods/
+replication-boutin-2024/
 ├── scripts/                # Numbered analysis scripts
 ├── data/
 │   ├── metadata/           # Sample metadata and SRA mappings
